@@ -9,7 +9,7 @@ include_once "db.php";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="act3css.css">
-    <title>Table</title>
+    <title>Act 1</title>
 </head>
 <body>
 <!--  Table -->
@@ -61,3 +61,4 @@ include_once "db.php";
 </body>
 
 </html>
+
