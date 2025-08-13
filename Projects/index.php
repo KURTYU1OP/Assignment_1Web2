@@ -54,6 +54,10 @@ include_once "db.php";
     }
     ?>
     </table>
+    <a href="1index.html">
+        <button>Go to Personal Details</button>
+    </a>
     
 </body>
+
 </html>
